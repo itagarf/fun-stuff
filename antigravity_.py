@@ -1,4 +1,4 @@
-#This redirects the user to https://xkcd.com/353/ on the broswer
+#This redirects the user to https://xkcd.com/353/
 
 import antigravity
 
